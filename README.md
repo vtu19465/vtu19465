@@ -16,8 +16,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   
 - <b>Python (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/vtu19465/Malware-Ransomware_1-)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/vtu19465/Malware-Ransomware_1-)
   - [Python Remote Keylogger](https://github.com/joshmadakor1/Key-Logger-With-Email)
    
 - <b>Python</b>
