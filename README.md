@@ -11,9 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   
 - <b>Python (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/vtu19465/Malware-Ransomware_1-)
@@ -21,7 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - [Python Remote Keylogger](https://github.com/joshmadakor1/Key-Logger-With-Email)
    
 - <b>Python</b>
-  - [Python‑basedWebAutomationPlatformusingSelenium](https://github.com/vtu19465/Web-Atuomation-Using-Selenium)
+  - [Python‑based_Web_Automation_Platform_using_Selenium](https://github.com/vtu19465/Web-Atuomation-Using-Selenium)
   - [Password Analyzer with Common Password Detection ](https://github.com/vtu19465/pass_analyser)
 
 ## Tools
