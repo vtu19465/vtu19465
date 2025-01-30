@@ -10,13 +10,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation]
   
 - <b>Python (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/vtu19465/Malware-Ransomware_1-)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/vtu19465/Malware-Ransomware_1-)
-  - [Python Remote Keylogger](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Python Remote Keylogger]
    
 - <b>Python</b>
   - [Python‑based_Web_Automation_Platform_using_Selenium](https://github.com/vtu19465/Web-Atuomation-Using-Selenium)
@@ -34,15 +33,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
