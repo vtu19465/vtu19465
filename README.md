@@ -11,11 +11,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation]
+
+- <b>Network Security</b>
+  - [OPNsense Firewall Configuration](https://github.com/vtu19465/OPNsense_Firewall_configuration)
+  - [Network Vulnerabality Scanning]
+  - [Network Traffic Analysis]
   
 - <b>Python (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/vtu19465/Malware-Ransomware_1-)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/vtu19465/Malware-Ransomware_1-)
-  - [Python Remote Keylogger]
+  - [Python Remote Keylogger](https://github.com/vtu19465/Python-remote-keylogger)
    
 - <b>Python</b>
   - [Python‑based_Web_Automation_Platform_using_Selenium](https://github.com/vtu19465/Web-Atuomation-Using-Selenium)
