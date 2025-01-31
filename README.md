@@ -14,8 +14,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 - <b>Network Security</b>
   - [OPNsense Firewall Configuration](https://github.com/vtu19465/OPNsense_Firewall_configuration)
-  - [Network Vulnerabality Scanning]
-  - [Network Traffic Analysis]
+  - [Network Vulnerabality Scanning (Virtual Lab)]
+  - [Network Traffic Analysis (Virtual Lab)]
   
 - <b>Python (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/vtu19465/Malware-Ransomware_1-)
