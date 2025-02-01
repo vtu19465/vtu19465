@@ -1,4 +1,4 @@
-<h1>Hi, I'm Vigneshwaran! <br/>Programmer</a>, Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Vigneshwaran! <br/>Programmer, Cybersecurity Professional </h1>
 <a href="https://www.linkedin.com/in/vigneshwaran11-n/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a computer secience student with a profound interest in technology and a dedication to solving complex problems.
